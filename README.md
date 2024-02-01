@@ -4,7 +4,7 @@
 
 <p>This website was developed with PHP and MySQL.</p>
 
-<p><em>Disclaimer: This web application is for example/educational purposes only and shouldn't be used for an actual E-commerce website.</em></p>
+<p><em>Disclaimer: This web application is for example/educational purposes only and shouldn't be used for an actual hotel reservation system.</em></p>
 
 <h3>Home Page</h3>
 
