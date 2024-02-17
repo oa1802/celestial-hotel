@@ -1,6 +1,6 @@
 <h1>Celestial Hotel Reservation System</h1>
 
-<p>This web application was created as part of a college course for a fictional hotel on Miami Beach. Through the website, hotel rooms can be searched for and booked for particular dates.</p>
+<p>This web application is for a fictional hotel on Miami Beach. It was created as part of a project for a college course. Through the website, hotel rooms can be searched for and booked for particular dates.</p>
 
 <p>This website was developed with PHP and MySQL.</p>
 
